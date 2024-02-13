@@ -23,6 +23,10 @@
     display: flex;
     margin-left: 87px;
   }
+
+  @media screen and (min-width: 1200px) {
+    margin-left: 94px;
+  }
 }
 
 .navigation__list {
